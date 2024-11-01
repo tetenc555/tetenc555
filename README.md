@@ -1,7 +1,8 @@
 <div div id="user-content-toc" >
   <summary style="list-style: none;">
-    <img align=left src="https://github.com/tetenc555/tetenc555/blob/main/assets/headerIcon.jpeg" width="100" height="auto"/>
-    <h1 align=left>sfe </h1>
+    <img align=left src="https://github.com/tetenc555/tetenc555/blob/main/assets/headerIcon.png" width="120" height="auto"/>
+    <h1 align=left>Welcome to my place!</h1>
+    <p><em>Feel free to explore! :3</em></p>
   </summary>
 </div>
 <!--
