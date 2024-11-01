@@ -4,7 +4,7 @@
     <h1 align=left>Welcome to my place!</h1>
     <p><em>Feel free to explore! :3</em></p>
   </summary>
-</div>
+</div>&nbsp;
 
 
 <summary>
