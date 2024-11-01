@@ -9,15 +9,14 @@
 
 
 ## About me!
-Im a 19yo Brazilian Student who likes to learn a lot about coding and computers in general! Right now im focusing in learning Game Development with GDScript and Machine Learning with Tensorflow >.<
+Im a 19yo Brazilian Student who likes to learn a lot about coding and computers in general! Right now im focusing on learning Game Development with GDScript and Machine Learning with Tensorflow >.<
 
 
 ## My Work
-On College, i was able to learn a lot about Front-End, and i prettend to study more about it on the future, as i do like to get better at CSS too <3 ~~ Im working in some projects with React and TypeScript, but im also very familiarized with JS! ~~
+On College, i was able to learn a lot about Front-End, and i pretend to study more about it on the future, as i do like to get better at CSS too <3 ~~ Im working in some projects with React and TypeScript, but im also very familiarized with JS! ~~
 
 Im also active in developing Hackintoshes and im active in these discutions! If you got interested, feel free to check them out!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetenc555&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dracula)  
 
 ### Im currently developing in these languages
 <div>
@@ -30,7 +29,9 @@ Im also active in developing Hackintoshes and im active in these discutions! If 
   <img src="https://github.com/tetenc555/tetenc555/blob/main/assets/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tetenc555/tetenc555/blob/main/assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tetenc555/tetenc555/blob/main/assets/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div>
+</div>&nbsp; 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tetenc555&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dracula)  
 
 <!--
 **tetenc555/tetenc555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
